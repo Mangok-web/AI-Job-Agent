@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+# macOS
+.DS_Store
+# VSCode / PyCharm
+.vscode/
+.idea/
+# Outputs
+outputs/
+# Tokens / creds
+service_account.json
+client_secret.json
+token.json
