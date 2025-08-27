@@ -4,17 +4,10 @@ from pathlib import Path
 
 def main():
     jd = JobDescription(
-        company="DeepMind",
-        role_title="AI Engineer",
-        location="London, UK",
-        description=(Path("samples/jd_ai_engineer.txt").read_text(encoding="utf-8")),
-        requirements=[
-            "Python",
-            "TensorFlow or PyTorch",
-            "Experience with ML pipelines",
-            "SQL and data manipulation",
-        ],
-        source_link="https://deepmind.com/careers/ai-engineer",
+        company="AcmeAI",
+        role_title="Machine Learning Engineer",
+        location="Remote, UK/EU",
+        source_link="https://acme.ai/careers/ml-engineer"
     )
     outputs = tailor_cover_letter(jd, Path("outputs"))
     csv_path = update_tracking_sheet(jd, outputs)
