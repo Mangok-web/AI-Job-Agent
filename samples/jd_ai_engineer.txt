@@ -1,0 +1,4 @@
+We are seeking an AI Engineer to build and deploy machine learning systems.
+Requirements include strong Python, deep learning with TensorFlow or PyTorch,
+experience with ML pipelines and MLOps, proficiency with SQL, NumPy, Pandas,
+and familiarity with NLP or Computer Vision. Experience with CNNs preferred.

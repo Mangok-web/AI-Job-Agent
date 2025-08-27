@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am applying for the {role_title} at {company}. I am an AI Engineer with an MSc in Artificial Intelligence (Merit), hands-on experience in Python, TensorFlow, PyTorch, scikit-learn, and a CNN project that achieved 92 percent accuracy.
+
+Your job description emphasises: {requirements_bulleted}
+
+Here is how I add value:
+- Relevant skills: {skills_matched}
+- Recent work: delivered AI and QA teaching; code review and testing
+- Ways I can help: {impact_statement}
+
+I would value the chance to discuss how I can contribute to {team_or_product}. Thank you for your time.
+
+Kind regards,
+Khalil Mabok
+Email: khalil.mabok@gmail.com | Phone: +211 989003330
