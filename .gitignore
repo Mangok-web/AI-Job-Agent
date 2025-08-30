@@ -20,3 +20,8 @@ token.json
 # Generated
 outputs/
 
+
+# Google OAuth
+token.json
+credentials.json
+
